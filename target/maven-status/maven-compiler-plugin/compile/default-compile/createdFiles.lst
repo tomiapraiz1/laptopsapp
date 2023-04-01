@@ -1,0 +1,4 @@
+com\example\laptopsapp\LaptopsappApplication.class
+com\example\laptopsapp\entities\Laptop.class
+com\example\laptopsapp\controllers\LaptopController.class
+com\example\laptopsapp\repositories\LaptopRepository.class
